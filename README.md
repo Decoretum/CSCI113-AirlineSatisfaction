@@ -13,9 +13,9 @@ This is the repository for the CSCI 113i final project which consists of the fol
 <h1>Topic Name</h1>Airline Passenger Satisfaction / Airline Performance Appraisal
 <h1>Problem Statement</h1>
 <h2>Business Objectives</h2>
-To reduce the percentage of successful fraudulence transactions using fake credit cards within the company.
+To improve the airline flight experience for the passengers.
 <h2>Data mining objectives</h2>
-To predict the validity of a credit card by utilizing and analyzing historical data pertaining to valid and fraud credit cards
+To predict the customer's airline flight satisfaction by analyzing historical data pertaining to the airline flight experience. 
 <h1>Data</h1>
 <h2>Input</h2>Passenger Demographics, Customer type (Returning, First-Time), Type of Travel (Business, Personal), Flight Class (Business, Economy, Other), Flight Distance, Departure Delay, Arrival Delay, Customer Appraisal on Flight Aspects (ease of booking, cleanliness, overall satisfaction, etc)  
 <h2>Output</h2>Predicted Rating of Customer Satisfaction on a Scale of 0 to 5, Identified factors with the lowest customer rating (cleanliness, delays etc) 
